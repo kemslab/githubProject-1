@@ -5,6 +5,8 @@ public class Player {
     private int id;
     private String name;
     private String nickName;
+    private int age;
+    private String Nationality;
 
     public Player(int id, String name) {
         this.id = id;
